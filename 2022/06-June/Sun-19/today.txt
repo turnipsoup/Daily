@@ -1,0 +1,1 @@
+Today I worked on a quick Go program to find the 5 most common colors in an image and create a color bar out of them. The intention is that this will be for my photography website. Yes, it will be available on Github when it is finished.
